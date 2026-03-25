@@ -23,7 +23,7 @@ short_bio_text_justify: true
 short_bio: >-
   <p>
     I finished my joint M.Sc. degree in the School of Engineering Mathematics and Technology at the University of Bristol and the School of Engineering at the University of the West of England. 
-    I received my B.Sc. degree at the University of Nottingham (Malaysia Campus). Prior to my undergraduate studies, I was a artistic specialty student specializing in Percussion (Marimba) for six years.
+    I received my B.Sc. degree in the School of Computer Science at the University of Nottingham (Malaysia Campus). Prior to my undergraduate studies, I was a artistic specialty student specializing in Percussion (Marimba) for six years.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,7 +35,7 @@ education:
   logo: /assets/images/badges/Brs.png
   position: >- 
     School of Engineering Mathematics and Technology (UoB) <br> School of Engineering (UWE) <br/>
-    M.Sc. Robotics
+    M.Sc. Robotics (Joint Degree)
   date: Sep. 2024 - Nov. 2025
 - name: University of Nottingham
   logo: /assets/images/badges/Not.png

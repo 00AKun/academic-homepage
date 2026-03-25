@@ -2,7 +2,7 @@
 title:          "Learning by Teaching: Enhancing Music Learning Through LLM-Based Teachable Agents"
 date:           2025-07-21
 selected:       true
-pub:            "International Conference on Artificial Intelligence in Education"
+pub:            "26th International Conference on Artificial Intelligence in Education (AIED)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"><i>ICORE-A</i></span>'

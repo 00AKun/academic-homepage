@@ -2,7 +2,7 @@
 title:          "FedNPC: A Personalizable Federated Learning Framework for Large Language Models in Game NPCs"
 date:           2023-12-13
 selected:       false
-pub:            "2023 IEEE 21st Student Conference on Research and Development (SCOReD)"
+pub:            "IEEE 21st Student Conference on Research and Development (SCOReD)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"><i>EI</i></span>'
 pub_date:       "2023"
 abstract: >-

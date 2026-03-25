@@ -2,7 +2,7 @@
 title:          "A Comparative Study of LSTM, LightGBM, and Autoregressive Model in Narrow-Based ETF Market Prediction with Multi-Ticker Models"
 date:           2023-10-27
 selected:       false
-pub:            "Proceedings of the 6th International Conference on Machine Learning and Machine Intelligence"
+pub:            "6th International Conference on Machine Learning and Machine Intelligence"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"><i>EI</i></span>'
 pub_date:       "2023"
 abstract: >-

@@ -2,7 +2,7 @@
 title:          "Novel Domain-Knowledge Based Feature Selection Framework for Price Prediction: Comprehensive Modelling in Sailboat Market"
 date:           2023-09-15
 selected:       false
-pub:            "Proceedings of the 2023 7th International Conference on Computing and Data Analysis"
+pub:            "7th International Conference on Computing and Data Analysis (ICCDA)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
